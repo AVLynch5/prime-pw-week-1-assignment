@@ -6,6 +6,7 @@ body {
   margin-bottom: 3%;
   border-style:none;
   padding: 10px;
+  background-image: linear-gradient(#E1EFF7, #BDB7F3);
 }
 /* Make the header and footer a different color from the background */
 header {
@@ -15,7 +16,6 @@ header {
   margin: auto;
   width: 90%;
 }
-
 footer {
   background-color: #2FD4B1;
   border: solid 2px red;
